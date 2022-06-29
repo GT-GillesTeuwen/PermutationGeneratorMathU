@@ -15,6 +15,5 @@ Instructions:
 		Launch the "MathU_Permutations.exe" file as normal
 		OR
 		Launch the "PermutationGeneratorMathU-1.0-SNAPSHOT-jar-with-dependencies.jar" file using Java(TM) platrform SE binary
-
 	Using mac or linux:
 		Launch the "PermutationGeneratorMathU-1.0-SNAPSHOT-jar-with-dependencies.jar" using the java command
